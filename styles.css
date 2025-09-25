@@ -1,0 +1,43 @@
+body {
+	background-color: azure;
+}
+.carte {
+	border: solid 5px #4d4f62;
+	width: 20px 20px 20px 20px;
+	margin-left: auto;
+	margin-right: auto;
+	box-sizing: content-box;
+}
+.first {
+	background-color: aliceblue;
+	border-top: solid 3px purple;
+	width: max-content;
+	margin-left: auto;
+	margin-right: auto;
+	align-items: center;
+}
+.sencond {
+	background-color: aliceblue;
+	border-top: solid 3px #44d3d2;
+	width: max-content;
+	margin-bottom: auto;
+	margin-top: auto;
+}
+.three {
+	background-color: aliceblue;
+	border-top: solid 3px #549ef2;
+	width: max-content;
+	margin-left: auto;
+	margin-top: auto;
+	margin-bottom: auto;
+	height: auto;
+}
+.four {
+	background-color: aliceblue;
+	border-top: solid 3px #fcae4a;
+	width: max-content;
+
+	height: auto;
+	margin-left: auto;
+	margin-right: auto;
+}
